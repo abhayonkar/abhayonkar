@@ -1,19 +1,8 @@
 
 <h1 align="center">Hi there 👋, I'm Abhay Onkar</h1>
-<h3 align="center">A passionate and budding backend developer</h3>
+<h3 align="left">A passionate and budding backend developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhayonkar&label=Profile%20views&color=0e75b6&style=flat" alt="abhayonkar" /> </p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhayonkar/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-</a>
-  <a href="https://twitter.com/abhayronkar" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-- 🌱 I’m currently learning **golang backend development**
+- 🌱 I’m currently learning **javascript backend development**
 
 - 💬 Ask me about **python, node.js**
 
@@ -30,11 +19,11 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
-<div align="center">
+<div >
   <img src="https://streak-stats.demolab.com?user=abhayonkar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
