@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **javascript backend development**
 
-- 💬 Ask me about **python, node.js**
+- 💬 Ask me about **python and cricket**
 
 - 📫 How to reach me **abhayronkar@gmail.com**
 
